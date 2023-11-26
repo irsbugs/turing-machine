@@ -1,3 +1,3 @@
 # turing-machine
 
-## A Python/tkinter GUI based simulator of the Alan Turing *Computable Machine*
+## A Python/Tkinter GUI based simulator of the Alan Turing *Computable Machine*
