@@ -14,5 +14,13 @@ In 1935/36, at the age of 22 and while studing at Cambridge, Alan Turing wanted 
 
 The python/tkinter simulator is likely to be based around a combination of both Turing and Post hypothetical machines.
 
+## Python/Tkinter GUI Turing Simulator.
+
+* The simulator allows each frame on the tape to contain three symbols: Zero, One, or blank (which is indicated with an underscore.) When the tape frames contain multiple sets of binary data, then the blank frame acts as a delimiter to separate the data.
+
+* The position of the read/write head on the simulator does not move. It is the tape that moves one frame at a time, left or right, over the read/write head. As this is not a physical machine, requiring frames of the tape to be erased, there is no "erase" head. To erase a zero or one from a frame, then an underscore is written to that frame.
+
+* In programming the simulator, then a frame is read. What is read could be either zero, one or underscore/blank. Depending on what is read, then three separate commands can be written for each condition. These commands are: 1. What to write to the frame of the tape. 2. Which direction to move the tape after writing. 3. Which state in the programming code to jump to next.
 
 
+* 
