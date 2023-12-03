@@ -4,7 +4,7 @@
 
 ## History
 
-*David Hilbert* put forth the most influential list consisting of 23 unsolved problems at the International Congress of Mathematicians in Paris in 1900. In 1928 Hilbert proposed the Entscheidungs problem (decision problem). 
+*David Hilbert* put forth the most influential list consisting of 23 unsolved problems at the International Congress of Mathematicians in Paris in 1900. In 1928 Hilbert proposed the [Entscheidungs problem](https://en.wikipedia.org/wiki/Entscheidungsproblem) (decision problem). 
 
 *Alan Mathison Turing*, born 1912, died 1954 (aged 41), was an English mathematician, computer scientist, logician, cryptanalyst, philosopher and theoretical biologist. He studied at University of Cambridge for his BA and MA and Princeton University for his PhD. 
 
